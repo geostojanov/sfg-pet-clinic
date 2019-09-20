@@ -1,5 +1,14 @@
-C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\model\PetType.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\services\map\VetServiceMap.java
 C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\model\Vet.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\model\BaseEntity.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\services\OwnerService.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\model\Person.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\services\map\OwnerServiceMap.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\model\PetType.java
 C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\model\Pet.java
 C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\model\Owner.java
-C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\model\Person.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\services\CrudService.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\services\map\PetServiceMap.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\services\VetService.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\services\map\AbstractMapService.java
+C:\Users\MI\Documents\projects\sfg-pet-clinic\pet-clinic-data\src\main\java\com\example\sfgpetclinic\services\PetService.java
